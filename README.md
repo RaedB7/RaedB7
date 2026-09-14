@@ -1,6 +1,6 @@
 # Raed
 
-### Software Engineer | Backend & Full-Stack Developer
+### Software Engineer
 
 Software engineer with a primary focus on backend development, distributed systems, and scalable application architecture. I work mainly with the Java ecosystem, particularly Spring Boot, while also building full-stack applications and working with databases, containers, and deployment pipelines.
 

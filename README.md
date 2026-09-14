@@ -72,13 +72,13 @@ This section highlights projects that demonstrate my experience with backend dev
       <h3>Nexus : Distributed Multi Vendor Marketplace</h3>
       <p>A full stack, distributed marketplace designed to explore the challenges of building commerce systems across multiple services.</p>
       <p><b>Technologies:</b><br>Java 21 · Spring Boot · Spring WebFlux · R2DBC · Angular · PostgreSQL · MongoDB · Redis · Kafka · Elasticsearch · Keycloak · Docker</p>
-      <p><a href="https://github.com/RaedB7/nexus">🔗 View Repository</a></p>
+      <p><a href="https://github.com/RaedB7/nexus">View Repository</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>URL Shortener</h3>
       <p>A URL shortening application built with a focus on reactive programming, backend architecture, caching, and asynchronous analytics processing.</p>
       <p><b>Technologies:</b><br>Java · Spring Boot · Spring WebFlux · PostgreSQL · Redis · SvelteKit · Docker</p>
-      <p><a href="https://github.com/RaedB7/url-shortener">🔗 View Repository</a></p>
+      <p><a href="https://github.com/RaedB7/url-shortener">View Repository</a></p>
     </td>
   </tr>
 </table>
